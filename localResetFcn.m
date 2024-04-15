@@ -1,7 +1,7 @@
 function in = localResetFcn(in)
 
 % Randomize reference signal
-blk = sprintf('rlwatertank/DesiredWaterLevel');
+blk = sprintf('water_control_block/DesiredWaterLevel');
 h = 3*randn + 10;
 while h <= 0 || h >= 20
     h = 3*randn + 10;
