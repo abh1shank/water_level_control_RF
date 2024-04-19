@@ -11,3 +11,6 @@ A large penalty is imposed in case of overflow and underflow in the reward modul
 # Training of agent:
 
 <img width="677" alt="image" src="https://github.com/abh1shank/water_level_control_RF/assets/97939389/d19af379-7c86-4247-af62-13f46bca77f1">
+
+
+<img width="417" alt="image" src="https://github.com/abh1shank/water_level_control_RF/assets/97939389/0f52b9a6-c63f-4dbf-bdf1-50f905cf6b39">
